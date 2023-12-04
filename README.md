@@ -1,17 +1,21 @@
 # Programación con ChatGPT y asistentes con IA
 
-Programar ha sido una actividad que ha dependiendo en gran medida
+Programar ha sido una actividad que ha dependido en gran medida
 del conocimiento del programador y de su capacidad para resolver
-problemas. Han habido herramientas que en cierta medida han 
+problemas. También han habido herramientas que en cierta medida han 
 ayudado a los programadores a ser más productivos, como IDEs que
-autocompletan el código, o buscadores de código como StackOverflow
+autocompletan el código, o buscadores como Google o StackOverflow
 que permiten encontrar soluciones a problemas que ya han sido
 resueltos por otros programadores.
 
 Pero en los últimos años, estas herramientas han ido cambiando
-de tal manera que además de usar google para buscar soluciones
-a problemas, ahora se ha expandido mucho el uso de asistentes
-con IA.
+de tal manera que además de buscar en foros la solución a
+determinado problema de código, ahora se ha expandido mucho
+el uso de asistentes con IA.
+
+Un asistente con IA no es más que una herramienta que usa
+inteligencia artificial para ayudar a los programadores a
+ser más productivos. A continuación algunos beneficios:
 
 ## Beneficios de los asistentes con IA en la programación
 
@@ -42,17 +46,19 @@ con IA.
 ## Algunos de asistentes con IA
 
 * [ChatGPT](https://chatbot.gpt3demo.com/)
-* [Bing](https://www.bing.com/)
 * [GitHub Copilot](https://copilot.github.com/)
+* [DeepCode](https://www.deepcode.ai/)
+* [TabNine](https://www.tabnine.com/)
+* [Bing](https://www.bing.com/)
 
 Algunos de estos asistentes con IA son gratuitos, y otros
-son de pago. Todos nos ayudan a ser más productivos, y
+de pago. Todos nos ayudan a ser más productivos, y
 a resolver problemas de programación de manera más
 eficiente. Sin embargo, hay que tener en cuenta que
 estos asistentes con IA no son perfectos, y que
 a veces pueden generar código que no es correcto, o algo más
 perjudicial, sobre todo dentro del marco del proceso de aprendizaje, 
-es que puede dar la falsa sensación de que se está aprendiendo a programar,
+nos pueden dar una falsa sensación de que se está aprendiendo a programar,
 cuando en realidad se está aprendiendo a usar un asistente con IA.
 
 Es por eso que debemos tener cuidado con el abuso de estas
