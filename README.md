@@ -1,79 +1,99 @@
-# Programación con ChatGPT y asistentes con IA
+# Cómo utilizar la IA para optimizar tu aprendizaje en programación.
 
-Programar ha sido una actividad que ha dependido en gran medida
-del conocimiento del programador y de su capacidad para resolver
-problemas. También han habido herramientas que en cierta medida han 
-ayudado a los programadores a ser más productivos, como IDEs que
-autocompletan el código, o buscadores como Google o StackOverflow
-que permiten encontrar soluciones a problemas que ya han sido
-resueltos por otros programadores.
+Programar siempre ha dependido del conocimiento del programador
+y de su habilidad para resolver problemas.
+Herramientas como IDEs y buscadores como Google o
+Stack Overflow han mejorado la productividad.
+Pero ahora, los asistentes con inteligencia artificial (IA)
+están cambiando el juego.
 
-Pero en los últimos años, estas herramientas han ido cambiando
-de tal manera que además de buscar en foros la solución a
-determinado problema de código, ahora se ha expandido mucho
-el uso de asistentes con IA.
-
-Un asistente con IA no es más que una herramienta que usa
-inteligencia artificial para ayudar a los programadores a
-ser más productivos. A continuación algunos beneficios:
+Un asistente con IA es una herramienta que
+utiliza inteligencia artificial para hacer
+que las programadoras sean más productivas.
+Aquí algunos beneficios clave:
 
 ## Beneficios de los asistentes con IA en la programación
 
-* **Autocompletado de código**: Los asistentes con IA pueden
-  autocompletar código de manera más inteligente que los IDEs
-  tradicionales. Por ejemplo, pueden autocompletar código
-  que no se ha escrito aún, pero que es necesario para
-  completar una tarea.
-* **Búsqueda de código**: Los asistentes con IA pueden
-  buscar código en internet, y encontrar soluciones a
-  problemas que no se han resuelto aún.
-* **Generación de código**: Los asistentes con IA pueden
-  generar código a partir de una descripción de lo que
-  se quiere hacer. Por ejemplo, si se quiere hacer un
-  programa que lea un archivo de texto y cuente las
-  palabras que hay en él, se puede describir el problema
-  en lenguaje natural, y el asistente con IA puede
-  generar el código necesario para resolver el problema.
-* **Refactorización de código**: Los asistentes con IA
-  pueden refactorizar código, es decir, cambiar la
-  estructura del código para que sea más fácil de
-  entender y mantener.
-* **Resolución de errores**: Los asistentes con IA
-  pueden resolver errores de compilación y ejecución
-  de código, y también pueden encontrar errores
-  lógicos en el código.
+1. **Comprensión de Código Facilitada:**
+Te puede asistir en la comprensión de código
+y conceptos, con explicaciones detalladas
+y simplificando ideas complejas,
+lo que contribuye a un aprendizaje más profundo y efectivo.
 
-## Algunos de asistentes con IA
+2. **Búsqueda de Código Instantánea:**
+Facilita la búsqueda de soluciones en
+internet para problemas no resueltos,
+proporcionando ejemplos prácticos y
+acelerando el aprendizaje.
 
-* [ChatGPT](https://chatbot.gpt3demo.com/)
+3. **Generación de Código Descriptiva:**
+Transforma descripciones en lenguaje natural
+en código funcional, ayudando a traducir
+ideas en implementaciones y fortaleciendo la comprensión.
+
+4. **Refactorización para Claridad:**
+Te puede ayudar a mejorar la estructura del código para
+hacerlo más comprensible y fácil de mantener,
+fomentando una codificación ordenada y clara.
+
+5. **Resolución de Errores Guiada:**
+Es muy útil al momento de identificar y resolver
+errores, ofreciendo orientación para corregir
+problemas y promoviendo tus habilidades de depuración.
+
+6. **Autocompletado Inteligente:**
+Completa el código de manera inteligente,
+anticipando y sugiriendo fragmentos necesarios
+para tareas específicas, agilizando la escritura.
+
+## Recursos y Asistentes con IA para Programadoras
+<!-- No se si considerar asistentes de pago como Copilot o Tabnine -->
+* [ChatGPT](https://chat.openai.com/)
+* [ExplainDev](https://explain.dev/)
+* [Amazon CodeWhisperer](https://aws.amazon.com/es/codewhisperer/)
+* [Bard](https://bard.google.com/)
+* [Bing](https://www.bing.com/?cc=es)
 * [GitHub Copilot](https://copilot.github.com/)
-* [DeepCode](https://www.deepcode.ai/)
 * [TabNine](https://www.tabnine.com/)
-* [Bing](https://www.bing.com/)
 
-Algunos de estos asistentes con IA son gratuitos, y otros
-de pago. Todos nos ayudan a ser más productivos, y
-a resolver problemas de programación de manera más
-eficiente. Sin embargo, hay que tener en cuenta que
-estos asistentes con IA no son perfectos, y que
-a veces pueden generar código que no es correcto, o algo más
-perjudicial, sobre todo dentro del marco del proceso de aprendizaje, 
-nos pueden dar una falsa sensación de que se está aprendiendo a programar,
-cuando en realidad se está aprendiendo a usar un asistente con IA.
-
-Es por eso que debemos tener cuidado con el abuso de estas
-herramientas, sobre todo al inicio del proceso de aprendizaje.
+Algunos asistentes con IA son gratuitos y otros de pago,
+pero todos son herramientas útiles para ser más productivos
+al abordar problemas de programación.
+Es importante tener en cuenta que, aunque no son perfectos
+y pueden cometer errores al generar código,
+está bien utilizarlos
+ Es importante verlos como herramientas de apoyo
+ en el aprendizaje de programación, no como un sustituto,
+ especialmente al inicio del aprendizaje.
 
 ## Buenas prácticas al momento de usar asistentes con IA
 
-* Intenta generar el código primero por tu cuenta. No dejes que todo
-  el código lo genere el asistente con IA.
-* Si el asistente con IA genera código, intenta entenderlo, estudia
-  cómo funciona, y trata de mejorarlo. Y la próxima vez que tengas que 
-  generar código similar, intenta hacerlo por tu cuenta.
-* Si el asistente con IA genera código que no entiendes, no lo uses.
-* Usa un asistente con IA para que te ayude a encontrar un error. IA lo puede
-  hacer de forma super rápida. Te puedes ahorrar horas de trabajo.
+* **Inicia con Independencia:**
+Antes de depender por completo del asistente con IA,
+comienza generando el código por ti mismo.
+Esto fomentará tu autonomía y comprensión.
+* **Comprende y Mejora:**
+Dedica tiempo a entender el código generado por el asistente con IA.
+Estudia su funcionamiento y busca formas de mejorarlo.
+En futuras ocasiones, intenta crear código similar de forma independiente.
+
+* **Analiza y experimenta:**
+No te limites a copiar el código del asistente, analízalo y
+experimenta con él. Realiza modificaciones para observar
+cómo afectan al resultado.
+Este enfoque fortalecerá tu comprensión práctica.
+* **Evita lo Incomprensible:**
+Si el código generado por el asistente resulta incomprensible,
+es preferible evitar su uso.
+Prioriza la claridad y comprensión en tu aprendizaje.
+* **Corrige Eficientemente:**
+Aprovecha el asistente con IA para identificar y corregir errores.
+La IA puede realizar esta tarea de manera rápida,
+ahorrándote valioso tiempo de trabajo.
+* **Herramienta Activa de Aprendizaje:**
+Considera al asistente con IA como una herramienta de aprendizaje activa.
+Úsalo para entender la estructura y resolución de problemas,
+más allá de ser solo un generador automático de código.
 
 ## Ejemplos de uso de asistentes con IA
 
