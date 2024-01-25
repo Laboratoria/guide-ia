@@ -55,6 +55,7 @@ para tareas específicas, agilizando la escritura.
 * [Bing](https://www.bing.com/?cc=es)
 * [GitHub Copilot](https://copilot.github.com/)
 * [TabNine](https://www.tabnine.com/)
+* [Perplexity](https://www.perplexity.ai/)
 
 Algunos asistentes con IA son gratuitos y otros de pago,
 pero todos son herramientas útiles para ser más productivos
@@ -97,56 +98,116 @@ más allá de ser solo un generador automático de código.
 
 ## Ejemplos de uso de asistentes con IA
 
-### Dividir la información para evitar la sobrecarga cognitiva
+### Herramientas para navegar la sobrecarga de información en programación
 
-Cuando recibimos más información de la que podemos procesar, somos incapaces de tomar decisiones, resolver problemas, controlar nuestras emociones, etc. Esta es una de las principales razones por las que en Laboratoria no hacemos clases dictadas, piensa cuántas veces en tu vida has estado en clases dictadas y tuviste que anotar o grabar desesperadamente con tu teléfono porque habías dejado de entender toda la información que te estaban dando.
+En el ámbito de la programación, a menudo nos vemos enfrentados a un
+torrente de información, lo cual puede dificultar
+la toma de decisiones y la asimilación de conocimientos.
+Esta sobrecarga puede generar obstáculos en la resolución
+de problemas y el control emocional.
+Aquí es donde entran en juego herramientas com
+ [ChatGPT](https://chat.openai.com/) y [Perplexity](https://www.perplexity.ai/),
+ ofreciendo soluciones útiles. Para aprovechar al máximo estas herramientas,
+ es clave abordar de manera estratégica la sobrecarga de información.
+ A continuación, te presentamos una lista de pasos prácticos
+ que te ayudarán a navegar este desafío y optimizar tu aprendizaje en programación.
 
-Herramientas como ChatGPT o Perplexity te pueden ser de gran utilidad para, por ejemplo, generar un resumen o una lista simple que te permita aproximarte a un aprendizaje que te resulta complejo. Esto no quiere decir que ya no te haga falta leer o consumir los contenidos que te recomendamos en los proyectos, pero quizás te ayuda para comenzar. Recuerda que debes siempre constatar y validar antes de confiar ciegamente.
+1. Elige la Herramienta: Puedes utilizar alguna de las
+[herramientas listadas más arriba](#recursos-y-asistentes-con-ia-para-programadoras)
+o alguna de tu preferencia.
 
-Por ejemplo, puedes usar chatGPT para que todo esto de las pruebas unitarias no te resulte en idioma 👽 y así poder comenzar con un contexto simple antes de entrar a leer las documentaciones o analizar los boilerplates repletos de detalles que te pueden confundir. Por ejemplo:
+2. Construye un Prompt Efectivo: Crea preguntas específicas o instrucciones
+claras para obtener respuestas más útiles de la herramienta.
+
+3. Uso Estratégico: Utiliza la herramienta como punto de partida,
+no sustituto de la lectura activa.
+
+4. Lee Activamente: No descuides la lectura directa
+de los contenidos recomendados en tus proyectos.
+
+5. Verifica y Valida: Asegúrate de la precisión de la
+información mediante fuentes adicionales.
+
+6. Itera según Necesites: Repite el proceso,
+ajustando según tu progreso en programación.
+
+#### Ejemplo: Fragmenta el tema que deseas aprender en subtemas más manejables y específicos.
 
 ![Ejemplo1](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-lHRID0cV-m/389b616bfeb7fcffe9a82e0f724f830fae45ed937da2d940d6bb2c4e2f7e827d5b5b414b6042e5a6f6ae753021589d69d572baf12ae0bb2eec354a3d34e56204e637520b345036e75af8be6c28811aaf9331b159b9174870958e689da52af9c5f4fb5001?auto=format%2Ccompress&fit=max)
 
-### Encontrar alguna explicación o perspectiva única que se ajuste a tu manera de pensar y de aprender
+#### Buscar una explicación o perspectiva que se alinee con tu forma de pensar y aprender.
 
 ![Ejemplo2](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-b_FrS9Ny-i/24526295fa73923b92ca4fdd01cf79b2fc54c6cebe624af2a0a6ab6c3512fdece0025530e711c39e6b9b9fe0fb4b854944dc70054f019e8adfd5931bb49c015ec17e1b05d592b2dede8132c05b2c021b9ec455acbda753729547bc68756e39520b55a10a?auto=format%2Ccompress&fit=max)
 
-Otro ejemplo
+Otro ejemplo de lo anterior
 
 ![Ejemplo3](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-2jcv-PbvPj/fed3b99cb92b93de5406ebc13920769fbea4fa5ba6284d814f098f24b69be5eaaad54e9566fcca664ee4ee1304331168a15a67d31f99cdf2b677e81f280f57fb29b867bd98ced8c1657010378e1a8c05fe8b51f1a1f9f9eb7741342cf2bcf24c2d2cfae9?auto=format%2Ccompress&fit=max)
 
-### Obtener una (de entre muchas posibles) explicación concreta y específica
+#### Seleccionar una explicación concreta y específica entre varias opciones posibles.
 
 ![Ejemplo4](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-ykdc0z7g2M/2dc72e803deee978798b7191be8c2265cf32cc7315fb15fe2aee163dc9621808835b63c9c36854d5370fbec2c5871d3d53c9c4bf36ff88cb50784ea03f36afcb1edcfdc13dd3da74178cc6d194d975f479192d22ce46b6524471d92ab81d6ea8db76308e?auto=format%2Ccompress&fit=max)
 
-### Validar por ti misma si estás entendiendo algo importante
+### Comprobar personalmente si has comprendido algo crucial.
 
 ![Ejemplo5](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-xfKuTAius5/ebe1a84c96951701f921338d8bd94194f6431b4053fb18240eddee736ed52d343c697bd65a5a5cab64cd340db43fc51a175df0cc9cfb83e41515faa752767acccf7e57130542737262195190f5413702d9130356c1976b5baeaa6db5cdce97ac0b2e57e1?auto=format%2Ccompress&fit=max)
 
-### Generar ejemplos que se adecuen a tu contexto específico
+### Crear ejemplos que sean relevantes para tu situación específica.
 
-Si, por ejemplo, estás trabajando en el proyecto Data Lovers y te está costando comenzar con la parte del filtrado, podrías hacer algo así:
+Sí, por ejemplo, estás inmersa en el proyecto Dataverse y
+encuentras dificultades para iniciar la sección de filtrado,
+podrías considerar lo siguiente:
 
 ![Ejemplo6](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-Egg3o_UoYo/7fe356a993274e60bf276b916df4d7cd970640ef8344194ad194dbb173517a349c393618c843265284a31f1def417adb8cbc8200ea3bc25262b2e542b054ec486cc460d164690c1a64817bb7452e2fd1d8f5bfb7eb1d0f2fd9fa9ef7c4a59c37ae8d6036?auto=format%2Ccompress&fit=max)
 
-Tu curiosidad te puede llevar poco a poco a ir entendiendo mejor (aprendizaje incremental). Podría ser algo así:
+Tu curiosidad gradualmente puede llevarte a una comprensión más profunda
+(aprendizaje incremental). Un ejemplo práctico sería:
 
 ![Ejemplo7](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-eV1xC_Tm6y/a8e49d65e8419f26b3344c9aec31bf995b44fef8d674fc9d5efcbb636279cc983865448ca320ed31ce1029248ef504de83eb1605842d3ca33192feae4cce59302c13d1adcd16e22e0b3cc9aa1e20c21e6284d90bcc7690af512552510b595a0e8bcb1b9f?auto=format%2Ccompress&fit=max)
 
-Si no se te ocurre una estrategia de trabajo, prueba pedir ideas
+Si te encuentras atascada sin una estrategia de trabajo,
+intenta solicitar ideas a tu alrededor.
 
 ![Ejemplo8](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-iTK9K9_xe6/ebf6517622dda8d0766b8682038068dc410bd091673d7d7286cdb2f1eaf21765a9076b3f2ebedc0b7b6781947d4fff18d1d5e6044135352a494c9b2c9b44c5c3115071350338185f0b3b26b38a662c34a033eb4143d4ce37bdd58eb8d401525ead60410c?auto=format%2Ccompress&fit=max)
 
-### Para hacer debugging de tu código
+### "Optimizando el Proceso de Debugging: Estrategias Inteligentes para Entender Mensajes de Error en tu Código"
 
-Una de las actividades que necesitas hacer con mucha frecuencia es “debuguear” tu código, tratando de entender los mensajes de error y que eso te guíe a identificar qué necesitas revisar para encontrar una solución. Esto puede resultar en un proceso tedioso, complejo y propenso a malas interpretaciones, sobre todo si tu inglés no te resulta suficiente para comprender con claridad y precisión. Seguramente habrás copiado y pegado los mensajes de error en el algún traductor online y más de una vez terminaste más confundida de lo que comenzaste porque te hace una traducción literal y/o traduce hasta las variables, una locura.
+Debuguear tu código es una tarea frecuente que implica comprender
+los mensajes de error para identificar y resolver problemas.
+Este proceso puede volverse tedioso y complejo, ya que los
+de mensajes de error a pueden resultar confusos.
 
-Puedes usar varios de los chatbots con IA para pedir que te den alguna idea inicial sobre el mensaje de error que tienes. Considera que puedes (y debes) darle contexto y que, como son modelos de lenguaje, casi siempre traducen bastante mejor que los traductores a los que estás acostumbrada.
+Una estrategia útil es recurrir a mediante un asistente de IA
+obtener ideas iniciales sobre los mensajes de error.
+Puedes proporcionar contexto y, como los modelos de lenguaje,
+suelen ofrecer traducciones más precisas que los
+traductores convencionales. Por ejemplo, al trabajar
+en un proyecto que requiere autenticación con Google
+para acceder a eventos del calendario, podrías
+enfrentarte a un mensaje de error.
+Es importante resistir la tentación de obtener la
+solución de inmediato y, en su lugar, intentar
+comprender por ti misma con la ayuda del chatbot.
 
-Por ejemplo, trabajando en un proyecto que requiere la autenticación con Google para acceder a los eventos del calendario, podrías tener un mensaje de error que necesitas entender pero, al mismo tiempo, resistirte a la tentación de que te dé la solución sin que puedas intentar por tu cuenta, entonces:
+> [!TIP] Si te enfrentas a dificultades en la comprensión de mensajes de error
+> debido al idioma, considera utilizar chatbots con inteligencia artificial.
+> Estos pueden no solo traducir, sino también proporcionar un contexto más claro
+> y útil para ayudarte a entender y abordar el error en tu código,
+> incluso si el inglés no es tu punto fuerte
 
 ![Ejemplo8](https://codaio.imgix.net/docs/eHfHkTC743/blobs/bl-f5i-1lXe41/358df2bf5ee8f7f11b10aa8c8b37cef01c2058905b944d66dde5249829b539ae4568704dfdc557520d3ea79466b6f6dffbab4c5728c5361c781c083ae5875ee6274441a210598e045c5994dd5a4a010512b650b93931d9c302cf0f4a2845052dc3c9b674?auto=format%2Ccompress&fit=max)
 
+Puedes probar con los siguientes prompts:
+
+1. `Identifica posibles errores en el siguiente fragmento de código
+en [lenguaje]: [fragmento de código].`
+
+2. `Analiza el código proporcionado en [lenguaje] y
+sugiere mejoras para evitar [tipo de error]: [fragmento de código].`
+
+3. `Encuentra posibles fugas de memoria en el siguiente fragmento de código
+en [lenguaje] y sugiere soluciones: [fragmento de código].`
+
+<!-- Por editar -->
 ## Algunas otras ventajas obvias para usar esto en favor de tu aprendizaje:
 
 1. Están disponibles 24 horas al día.
