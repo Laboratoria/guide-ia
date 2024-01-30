@@ -571,6 +571,16 @@ Considera al asistente con IA como una herramienta de aprendizaje activa.
 Úsalo para entender la estructura y resolución de problemas,
 más allá de ser solo un generador automático de código.
 
+## Recursos adicionales y documentación
+
+También te sugerimos explorar estos recursos:
+
+1. [6 Pasos Para El Prompt Perfecto](https://espresso-matutino.notion.site/6-Pasos-Para-El-Prompt-Perfecto-280cac492ab54a258771ec56de27807d)
+2. [30+ Sugerencias de ChatGPT AI que son Cortas, Divertidas, ¡pero Altamente EFECTIVAS!](https://dev.to/arjuncodess/30-prompts-that-are-short-silly-but-highly-effective-examples-504c)
+3. [Ejemplos de prompts](https://www.promptingguide.ai/es/introduction/examples)
+4. [Utiliza ExplainDev para comprender el código en GitHub, StackOverflow y sitios de documentación](https://dev.to/explaindev/use-ai-to-understand-the-code-on-github-stackoverflow-and-docs-sites-52n5)
+5. [Use ChatGPT to Code a Full Stack App – Full Course](https://www.youtube.com/watch?v=GizsSo-EevA)
+
 ## Conclusión
 
 Espero que esta guía te inspire a incorporar herramientas con inteligencia artificial
@@ -584,12 +594,3 @@ convirtiéndose en una valiosa aliada en tu viaje de programación.
 Recuerda, en este emocionante camino, siempre puedes contar con el apoyo de tus
 coaches y los canales específicos de cada proyecto.
 ¡Que tengas un excelente viaje en tu proceso de aprendizaje!.
-
-## Recursos adicionales y documentación
-
-También te sugerimos explorar estos recursos:
-
-1. [6 Pasos Para El Prompt Perfecto](https://espresso-matutino.notion.site/6-Pasos-Para-El-Prompt-Perfecto-280cac492ab54a258771ec56de27807d)
-2. [30+ Sugerencias de ChatGPT AI que son Cortas, Divertidas, ¡pero Altamente EFECTIVAS!](https://dev.to/arjuncodess/30-prompts-that-are-short-silly-but-highly-effective-examples-504c)
-3. [Ejemplos de prompts](https://www.promptingguide.ai/es/introduction/examples)
-4. [Utiliza ExplainDev para comprender el código en GitHub, StackOverflow y sitios de documentación](https://dev.to/explaindev/use-ai-to-understand-the-code-on-github-stackoverflow-and-docs-sites-52n5)
