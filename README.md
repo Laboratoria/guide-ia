@@ -451,7 +451,8 @@ una extensión para VSCode. Desde tu editor de código,
 puedes obtener explicaciones directas de bloques de tu código y,
 además, realizar preguntas para profundizar en el análisis del código que estás probando.
 
-> [!TIP] Puedes acceder a guías de instalación y uso en los siguientes enlaces,
+> [!TIP]
+> Puedes acceder a guías de instalación y uso en los siguientes enlaces,
 > [ExplainDev | Registrarnos e Instalarlo](https://www.loom.com/share/bc03666f8e6e4976a1f94af3ebacaa15?sid=6d5c5204-458c-4fbf-bc4d-b1091d53797d),
 > [Demo ExplainDev](https://www.youtube.com/watch?v=HCCDOloINMQ),
 > [Pon a prueba tu conocimiento técnico con ExplainDev](https://www.youtube.com/watch?v=ta-08DB9p3k)
@@ -536,7 +537,8 @@ datos que necesitas, como usar una API pública o un servidor proxy.
 Recuerda que si la explicación se vuelve difícil de entender,
 puedes pedirle al asistente que lo explique de forma más simple.
 
-> [!TIP] Si te cuesta entender mensajes de error en inglés, pide al asistente
+> [!TIP]
+> Si te cuesta entender mensajes de error en inglés, pide al asistente
 > con IA que lo traduzca. No solo traducen, sino que también ofrecen un contexto
 > claro para ayudarte a comprender y solucionar errores en tu código,
 > incluso si el inglés no es tu fuerte.
