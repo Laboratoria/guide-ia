@@ -87,7 +87,7 @@ las herramientas mencionadas antes pueden ser muy útiles.
 
 Veamos un ejemplo:
 
-> Pregunta a asistente: Estoy aprendiendo desarrollo web con Javascript, HTML y CSS.
+> **Mensaje:** Estoy aprendiendo desarrollo web con Javascript, HTML y CSS.
 > necesito un esquema que me ayude a entender que los las pruebas unitarios,
 >para que sirve y como se utiliza. Considera que no se nada,
 >explicamelo de forma sencilla y clara.
@@ -132,7 +132,7 @@ te daré un esquema básico de cómo podrías estructurar tus pruebas...
 Si el resultado no cumple con tus expectativas, considera explorar otra
 perspectiva que se alinee mejor con tu manera de pensar, ejemplo:
 
-> Pregunta a asistente: No me ha quedado muy claro, Puedes utilizar alguna metáfora
+> **Mensaje:** No me ha quedado muy claro, Puedes utilizar alguna metáfora
 > para poder entenderlo mejor?
 
 <details>
@@ -177,7 +177,7 @@ Espero que estas metáforas te ayuden a entender mejor las pruebas unitarias.
 Finalmente, puedes fortalecer tu comprensión al formular preguntas
 que confirmen lo aprendido.
 
-> Pregunta a asistente: Puedes confirmar si estoy en lo correcto?,
+> **Mensaje:** Puedes confirmar si estoy en lo correcto?,
 > entiendo que los test buscan asegurar
 > la calidad de mi código usando una herramienta llamada jest?
 
@@ -206,7 +206,7 @@ de tu código en el desarrollo web. ¡Sigue explorando y practicando!
 Además, tienes la opción de solicitar preguntas que puedas responder
 para consolidar y reforzar tu aprendizaje.
 
-> Puedes darme 5 preguntas para contestar y asi validar si entendi
+> **Mensaje:** Puedes darme 5 preguntas para contestar y asi validar si entendi
 > lo que son las pruebas unitarias?
 
 <details>
@@ -230,7 +230,7 @@ de las pruebas unitarias:
 Sí, por ejemplo, si estás inmersa en el proyecto Dataverse y te encuentras con
 desafíos al iniciar la sección de filtrado, podrías considerar lo siguiente:
 
-> Estoy aprendiendo JS y deseo sabe como puedo filtrar numeros pares,
+> **Mensaje:** Estoy aprendiendo JS y deseo sabe como puedo filtrar numeros pares,
 > Me puedes dar un ejemplo?, explicame como funciona.
 
 <details>
@@ -275,7 +275,7 @@ que contiene solo los números pares.
 
 Explora tu curiosidad y plantea preguntas que te permitan profundizar en el tema.
 
-> Mencionas algo llamado callback, qué es?
+> **Mensaje:** Mencionas algo llamado callback, qué es?
 
 <details>
 <summary>Respuesta Chat GPT</summary>
@@ -316,7 +316,7 @@ se llama a miCallback con el resultado.
 
 Y si el ejemplo te sirve y lo entiendes puedes llevarte accionables para seguir avanzando
 
-> Estoy trabajando con una compañera en un proyecto para aprender JS, donde
+> **Mensaje:** Estoy trabajando con una compañera en un proyecto para aprender JS, donde
 > tenemos que filtrar datos a partir de un JSON. me ayudas a crear una
 > estrategia para dividir el trabajo y así ambas podamos aprender y practicar?
 
@@ -384,7 +384,7 @@ cómo mejorar tu código o explorando diferentes formas de lograr el mismo resul
 Aprovecha la oportunidad de recibir una revisión específica de ciertas
 partes de tu código mediante el uso de un asistente de inteligencia artificial.
 
->Tengo este codigo en JS, puedes revisarlo, e indicarme si hay errores o como mejorarlo?
+> **Mensaje:** Tengo este codigo en JS, puedes revisarlo, e indicarme si hay errores o como mejorarlo?
 > export const sortData = (data, sortBy, sortOrder) => { \n
 > if (sortOrder === "asc") {
 > return data.sort((a, b) => a[sortBy].localeCompare(b[sortBy]));
@@ -476,7 +476,7 @@ contando con la ayuda del asistente.
 
 Ejemplo:
 
-> Tengo un mensaje de error, puedes guiarme en comprenderlo, explícame el problema:
+> **Mensaje:** Tengo un mensaje de error, puedes guiarme en comprenderlo, explícame el problema:
 > Access to XMLHttpRequest at '<http://google.co> index.htm1:1 IV' from origin 'null'
 > has been blocked by CORS policy: No 'Access—Control—Allow—Origin' header is present
 > on the requested resource.
