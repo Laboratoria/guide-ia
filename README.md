@@ -230,7 +230,7 @@ de las pruebas unitarias:
 Sí, por ejemplo, si estás inmersa en el proyecto Dataverse y te encuentras con
 desafíos al iniciar la sección de filtrado, podrías considerar lo siguiente:
 
-> **Mensaje:** Estoy aprendiendo JS y deseo sabe como puedo filtrar numeros pares,
+> **Mensaje:** Estoy aprendiendo JS y deseo r como puedo filtrar numeros pares,
 > Me puedes dar un ejemplo?, explicame como funciona.
 
 <details>
