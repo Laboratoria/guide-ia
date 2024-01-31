@@ -3,10 +3,8 @@
 Programar ha estado vinculado siempre al conocimiento y
 la habilidad de la programadora para resolver problemas.
 En el camino de aprender a programar, nos enfrentamos a desafíos comunes:
-
-1. ¿Por dónde empezar?
-2. ¿Lo estoy haciendo correctamente?
-3. No sé cómo solucionar este error.
+**"¿Por dónde empezar?", "¿Lo estoy haciendo correctamente?",
+"No sé cómo solucionar este error"**
 
 Aunque contamos con recursos como Google y StackOverflow,
 ¿cómo podemos impulsar aún más nuestro aprendizaje y
@@ -72,10 +70,11 @@ código o agregar funcionalidades:
 - [GitHub Copilot](https://copilot.github.com/) (Requiere Pago)
 - [TabNine](https://www.tabnine.com/) (Requiere Pago)
 
-No es necesario probar todas; elige una o dos que se adapten a tus necesidades.
-Recuerda que estas herramientas son complementos y deben ser utilizadas como
-apoyo para aprender, no como sustitutos.
-**Tú tienes el control en tu proceso de aprendizaje!**
+> [!TIP]
+> No es necesario probar todas; elige una o dos que se adapten a tus necesidades.
+> Recuerda que estas herramientas son complementos y deben ser utilizadas como
+> apoyo para aprender, no como sustitutos.
+> **Tú tienes el control en tu proceso de aprendizaje!**
 
 ## Cómo puedo comenzar a usar estas herramientas
 
@@ -93,7 +92,7 @@ Veamos cómo un asistente de IA puede ser de gran utilidad en esta situación:
 > explícamelo de forma sencilla y clara.
 
 <details>
-<summary>Respuesta ChatGPT</summary>
+<summary>Haz clic para visualizar la respuesta de ChatGPT</summary>
 <i>
 ¡Claro! Comencemos por entender qué son las pruebas unitarias y
 por qué son importantes en el desarrollo web.
@@ -136,7 +135,7 @@ perspectiva que se alinee mejor con tu manera de pensar, ejemplo:
 > para poder entenderlo mejor?
 
 <details>
-<summary>Respuesta Bard</summary>
+<summary>Haz clic para visualizar la respuesta de Bard</summary>
 <i>
 Claro que sí. Imagina que estás construyendo una casa.
 Antes de empezar a construirla, vas a necesitar diseñar los planos.
@@ -182,7 +181,7 @@ que confirmen lo aprendido.
 > la calidad de mi código usando una herramienta llamada jest?
 
 <details>
-<summary>Respuesta ChatGPT</summary>
+<summary>Haz clic para visualizar la respuesta de ChatGPT</summary>
 <i>
 Exactamente! Has captado la idea correctamente. Las pruebas unitarias,
 en este caso utilizando Jest como herramienta, tienen como objetivo
@@ -210,7 +209,7 @@ para consolidar y reforzar tu aprendizaje.
 > lo que son las pruebas unitarias?
 
 <details>
-<summary>Respuesta Bard</summary>
+<summary>Haz clic para visualizar la respuesta de Bard</summary>
 <i>
 
 Claro que sí, aquí tienes 5 preguntas para ayudarte a validar tu comprensión
@@ -234,7 +233,7 @@ desafíos al iniciar la sección de filtrado, podrías considerar lo siguiente:
 > Me puedes dar un ejemplo?, explicame como funciona.
 
 <details>
-<summary>Respuesta ChatGPT</summary>
+<summary>Haz clic para visualizar la respuesta de ChatGPT</summary>
 <i>
 ¡Claro! Puedo ayudarte con eso.Puedes utilizar el método filter junto con una
 función de callback que evalúe si cada elemento del array es un número par.
@@ -278,7 +277,7 @@ Explora tu curiosidad y plantea preguntas que te permitan profundizar en el tema
 > **Mensaje:** Mencionas algo llamado callback, qué es?
 
 <details>
-<summary>Respuesta Chat GPT</summary>
+<summary>Haz clic para visualizar la respuesta de ChatGPT</summary>
 <i>
 En programación, un "callback" es una función que se pasa como argumento a
 otra función y que se ejecutará después de que la función principal
@@ -321,7 +320,7 @@ Y si el ejemplo te sirve y lo entiendes puedes llevarte accionables para seguir 
 > estrategia para dividir el trabajo y así ambas podamos aprender y practicar?
 
 <details>
-<summary>Respuesta Bard</summary>
+<summary>Haz clic para visualizar la respuesta de Bard</summary>
 <i>
 Trabajar en equipo en un proyecto es una excelente manera de
 aprender y aplicar tus conocimientos. Aquí te doy una estrategia que podrías
@@ -396,7 +395,7 @@ partes de tu código mediante el uso de un asistente de inteligencia artificial.
 >};
 
 <details>
-<summary>Respuesta ChatGPT</summary>
+<summary>Haz clic para visualizar la respuesta de ChatGPT</summary>
 <i>
 Tu código parece estar mayormente correcto. Sin embargo, hay algunos puntos que
 podrían mejorarse y algunos aspectos a tener en cuenta:
@@ -459,7 +458,8 @@ además, realizar preguntas para profundizar en el análisis del código que est
 > - [Demo ExplainDev](https://www.youtube.com/watch?v=HCCDOloINMQ),
 > - [Pon a prueba tu conocimiento técnico con ExplainDev](https://www.youtube.com/watch?v=ta-08DB9p3k)
 
-Si tienes alguna pregunta, no dudes en buscar ayuda en el canal #explaindev-help
+Si tienes alguna pregunta, no dudes en buscar ayuda en el canal
+[#explaindev-help](https://claseslaboratoria.slack.com/archives/C05FW7UEX5Y)
 en Slack.
 
 ### Optimizando la Depuración: Estrategias para Entender Errores en tu Código
@@ -486,7 +486,7 @@ Ejemplo:
 > on the requested resource.
 
 <details>
-<summary>Respuesta de Bard</summary>
+<summary>Haz clic para visualizar la respuesta de Bard</summary>
 <i>
 # Error de CORS
 
@@ -583,6 +583,7 @@ También te sugerimos explorar estos recursos:
 3. [Ejemplos de prompts](https://www.promptingguide.ai/es/introduction/examples)
 4. [Utiliza ExplainDev para comprender el código en GitHub, StackOverflow y sitios de documentación](https://dev.to/explaindev/use-ai-to-understand-the-code-on-github-stackoverflow-and-docs-sites-52n5)
 5. [Use ChatGPT to Code a Full Stack App – Full Course](https://www.youtube.com/watch?v=GizsSo-EevA)
+6. [AWS CodeWhisperer, el Github Copilot Gratuito de AWS](https://www.youtube.com/watch?v=fy5UUQ0aeq0)
 
 ## Conclusión
 
