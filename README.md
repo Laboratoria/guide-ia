@@ -85,12 +85,12 @@ Al iniciar nuevos proyectos o trabajar con tecnologías desconocidas, es normal
 enfrentarse a mucha información e incluso sentirse abrumada. Para superar este desafío,
 las herramientas mencionadas antes pueden ser muy útiles.
 
-Veamos un ejemplo:
+Veamos cómo un asistente de IA puede ser de gran utilidad en esta situación:
 
 > **Mensaje:** Estoy aprendiendo desarrollo web con Javascript, HTML y CSS.
-> necesito un esquema que me ayude a entender que los las pruebas unitarios,
->para que sirve y como se utiliza. Considera que no se nada,
->explicamelo de forma sencilla y clara.
+> necesito un esquema que me ayude a entender que son las pruebas unitarios,
+> para que sirve y como se utiliza. Considera que no se nada,
+> explícamelo de forma sencilla y clara.
 
 <details>
 <summary>Respuesta ChatGPT</summary>
@@ -230,7 +230,7 @@ de las pruebas unitarias:
 Sí, por ejemplo, si estás inmersa en el proyecto Dataverse y te encuentras con
 desafíos al iniciar la sección de filtrado, podrías considerar lo siguiente:
 
-> **Mensaje:** Estoy aprendiendo JS y deseo r como puedo filtrar numeros pares,
+> **Mensaje:** Estoy aprendiendo JS y deseo saber como puedo filtrar numeros pares,
 > Me puedes dar un ejemplo?, explicame como funciona.
 
 <details>
@@ -316,8 +316,8 @@ se llama a miCallback con el resultado.
 
 Y si el ejemplo te sirve y lo entiendes puedes llevarte accionables para seguir avanzando
 
-> **Mensaje:** Estoy trabajando con una compañera en un proyecto para aprender JS, donde
-> tenemos que filtrar datos a partir de un JSON. me ayudas a crear una
+> **Mensaje:** Estoy trabajando con una compañera en un proyecto para aprender JS,
+> donde tenemos que filtrar datos a partir de un JSON. me ayudas a crear una
 > estrategia para dividir el trabajo y así ambas podamos aprender y practicar?
 
 <details>
@@ -384,7 +384,8 @@ cómo mejorar tu código o explorando diferentes formas de lograr el mismo resul
 Aprovecha la oportunidad de recibir una revisión específica de ciertas
 partes de tu código mediante el uso de un asistente de inteligencia artificial.
 
-> **Mensaje:** Tengo este codigo en JS, puedes revisarlo, e indicarme si hay errores o como mejorarlo?
+> **Mensaje:** Tengo este codigo en JS, puedes revisarlo,
+> e indicarme si hay errores o como puedo mejorarlo?
 > export const sortData = (data, sortBy, sortOrder) => { \n
 > if (sortOrder === "asc") {
 > return data.sort((a, b) => a[sortBy].localeCompare(b[sortBy]));
@@ -453,14 +454,15 @@ además, realizar preguntas para profundizar en el análisis del código que est
 
 > [!TIP]
 > Puedes acceder a guías de instalación y uso en los siguientes enlaces,
-> [ExplainDev | Registrarnos e Instalarlo](https://www.loom.com/share/bc03666f8e6e4976a1f94af3ebacaa15?sid=6d5c5204-458c-4fbf-bc4d-b1091d53797d),
-> [Demo ExplainDev](https://www.youtube.com/watch?v=HCCDOloINMQ),
-> [Pon a prueba tu conocimiento técnico con ExplainDev](https://www.youtube.com/watch?v=ta-08DB9p3k)
+>
+> - [ExplainDev | Registrarnos e Instalarlo](https://www.loom.com/share/bc03666f8e6e4976a1f94af3ebacaa15?sid=6d5c5204-458c-4fbf-bc4d-b1091d53797d),
+> - [Demo ExplainDev](https://www.youtube.com/watch?v=HCCDOloINMQ),
+> - [Pon a prueba tu conocimiento técnico con ExplainDev](https://www.youtube.com/watch?v=ta-08DB9p3k)
 
 Si tienes alguna pregunta, no dudes en buscar ayuda en el canal #explaindev-help
 en Slack.
 
-### Optimizando la Depuración: Estrategias Inteligentes para Entender Errores en tu Código
+### Optimizando la Depuración: Estrategias para Entender Errores en tu Código
 
 Comprender y corregir errores en el código es crucial para las programadoras.
 Una estrategia efectiva es abordar la raíz de estos problemas. En este caso,
@@ -470,13 +472,15 @@ simplifican la comprensión del error. Este enfoque no solo nos ayuda a
 resolverlo, sino que también nos brinda la oportunidad de aprender del error,
 enriqueciendo nuestra experiencia de aprendizaje.
 
-Es crucial resistir la tentación de buscar la solución de inmediato.
-En su lugar, es preferible intentar comprender por ti misma,
-contando con la ayuda del asistente.
+> [!IMPORTANT]
+> Es esencial resistir la urgencia de buscar la solución de inmediato.
+> En su lugar, se recomienda intentar comprender el error una misma,
+> aprovechando la colaboración con el asistente.
 
 Ejemplo:
 
-> **Mensaje:** Tengo un mensaje de error, puedes guiarme en comprenderlo, explícame el problema:
+> **Mensaje:** Tengo un mensaje de error, puedes guiarme en comprenderlo,
+> explícame el problema:
 > Access to XMLHttpRequest at '<http://google.co> index.htm1:1 IV' from origin 'null'
 > has been blocked by CORS policy: No 'Access—Control—Allow—Origin' header is present
 > on the requested resource.
@@ -539,9 +543,8 @@ puedes pedirle al asistente que lo explique de forma más simple.
 
 > [!TIP]
 > Si te cuesta entender mensajes de error en inglés, pide al asistente
-> con IA que lo traduzca. No solo traducen, sino que también ofrecen un contexto
+> con IA que lo traduzca. No solo traducirá, sino que también ofrecen un contexto
 > claro para ayudarte a comprender y solucionar errores en tu código,
-> incluso si el inglés no es tu fuerte.
 
 ## Buenas prácticas al momento de usar asistentes con IA
 
@@ -584,7 +587,7 @@ También te sugerimos explorar estos recursos:
 ## Conclusión
 
 Espero que esta guía te inspire a incorporar herramientas con inteligencia artificial
-en tu proceso de aprendizaje. Iniciar de manera independiente es clave,
+en tu proceso de aprendizaje. **Iniciar de manera independiente es clave**,
 pero al aprovechar la IA, no solo resuelves problemas,
 sino que también profundizas tu comprensión y aceleras tu progreso.
 Experimenta con el código generado y observa cómo se alinea con tus propios enfoques.
