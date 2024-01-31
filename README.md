@@ -591,8 +591,8 @@ en tu proceso de aprendizaje. **Iniciar de manera independiente es clave**,
 pero al aprovechar la IA, no solo resuelves problemas,
 sino que también profundizas tu comprensión y aceleras tu progreso.
 Experimenta con el código generado y observa cómo se alinea con tus propios enfoques.
-La IA no reemplaza, sino que complementa tus habilidades,
-convirtiéndose en una valiosa aliada en tu viaje de programación.
+La IA no reemplaza, sino que **complementa tus habilidades**,
+convirtiéndose en una valiosa aliada en el proceso de aprender.
 
 Recuerda, en este emocionante camino, siempre puedes contar con el apoyo de tus
 coaches y los canales específicos de cada proyecto.
